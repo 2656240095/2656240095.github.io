@@ -6,7 +6,7 @@
   <link href="https://mysophia.github.io/atom.xml" rel="self"/>
   
   <link href="https://mysophia.github.io/"/>
-  <updated>2024-05-22T08:56:29.664Z</updated>
+  <updated>2024-05-27T15:24:13.040Z</updated>
   <id>https://mysophia.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2024-5-20-2024-5-26周报</title>
+    <link href="https://mysophia.github.io/2024/05/22/2024-5-20-2024-5-26%E5%91%A8%E6%8A%A5/"/>
+    <id>https://mysophia.github.io/2024/05/22/2024-5-20-2024-5-26%E5%91%A8%E6%8A%A5/</id>
+    <published>2024-05-22T08:58:48.000Z</published>
+    <updated>2024-05-27T15:24:13.040Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="本周学习大纲"><a href="#本周学习大纲" class="headerlink" title="本周学习大纲"></a>本周学习大纲</h3><ol><li><strong>课堂学习</strong>：学习新知识，写课后作业</li><li><strong>Java学习</strong>：学习方法引用</li><li><strong>Java复习</strong>：复习常用API</li></ol><h3 id="本周学习日历"><a href="#本周学习日历" class="headerlink" title="本周学习日历"></a>本周学习日历</h3><table><thead><tr><th align="center">日历</th><th align="center">学习日历</th></tr></thead><tbody><tr><td align="center">星期一</td><td align="center">课堂学习</td></tr><tr><td align="center">星期二</td><td align="center">Java复习</td></tr><tr><td align="center">星期三</td><td align="center">Java学习</td></tr><tr><td align="center">星期四</td><td align="center">课堂学习</td></tr><tr><td align="center">星期五</td><td align="center">课堂学习</td></tr><tr><td align="center">星期六</td><td align="center">Java学习</td></tr><tr><td align="center">星期天</td><td align="center">Java复习</td></tr></tbody></table><h3 id="本周学习内容及收获"><a href="#本周学习内容及收获" class="headerlink" title="本周学习内容及收获"></a>本周学习内容及收获</h3><h5 id="完成状态"><a href="#完成状态" class="headerlink" title="完成状态"></a>完成状态</h5><p>已完成本周任务</p><h5 id="学习内容"><a href="#学习内容" class="headerlink" title="学习内容"></a>学习内容</h5><ol><li>学习课堂知识</li><li>复习Java的常用类，如math，runtime，system，arrays等</li><li>学习Java中的方法引用，学会了引用成员方法、构造方法、静态方法</li></ol><h3 id="下周学习大纲"><a href="#下周学习大纲" class="headerlink" title="下周学习大纲"></a>下周学习大纲</h3><ol><li><strong>课堂学习</strong>：学习新知识</li><li><strong>Java学习</strong>：学习Java新知识</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;本周学习大纲&quot;&gt;&lt;a href=&quot;#本周学习大纲&quot; class=&quot;headerlink&quot; title=&quot;本周学习大纲&quot;&gt;&lt;/a&gt;本周学习大纲&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;课堂学习&lt;/strong&gt;：学习新知识，写课后作业&lt;/li&gt;
+&lt;li&gt;&lt;stro</summary>
+      
+    
+    
+    
+    
+    <category term="星辰大海组学习周报" scheme="https://mysophia.github.io/tags/%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%E7%BB%84%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5/"/>
+    
+  </entry>
   
   <entry>
     <title>2024-5-13-2024-5-19周报</title>
@@ -462,30 +486,6 @@
     <summary type="html">&lt;h3 id=&quot;本周学习大纲&quot;&gt;&lt;a href=&quot;#本周学习大纲&quot; class=&quot;headerlink&quot; title=&quot;本周学习大纲&quot;&gt;&lt;/a&gt;本周学习大纲&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;期末复习&lt;/strong&gt;：复习高数&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;拼图小游</summary>
-      
-    
-    
-    
-    
-    <category term="星辰大海组学习周报" scheme="https://mysophia.github.io/tags/%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%E7%BB%84%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2023/12/18-2023/12/24周报</title>
-    <link href="https://mysophia.github.io/2023/12/19/2023-12-18-2023-12-24%E5%91%A8%E6%8A%A5/"/>
-    <id>https://mysophia.github.io/2023/12/19/2023-12-18-2023-12-24%E5%91%A8%E6%8A%A5/</id>
-    <published>2023-12-19T11:55:31.000Z</published>
-    <updated>2023-12-24T14:27:06.323Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="本周学习大纲"><a href="#本周学习大纲" class="headerlink" title="本周学习大纲"></a>本周学习大纲</h3><ol><li><strong>期末复习</strong>： 复习高数</li><li><strong>python学习</strong>：面向对象的学习</li><li><strong>Java学习</strong>：内部类，拼图小游戏</li><li><strong>洛谷刷题</strong>：用python语言刷题</li></ol><h3 id="本周学习日历"><a href="#本周学习日历" class="headerlink" title="本周学习日历"></a>本周学习日历</h3><table><thead><tr><th align="center">日历</th><th align="center">学习内容</th></tr></thead><tbody><tr><td align="center">星期一</td><td align="center">期末复习</td></tr><tr><td align="center">星期二</td><td align="center">python学习&#x2F;Java学习</td></tr><tr><td align="center">星期三</td><td align="center">Java学习&#x2F;洛谷刷题</td></tr><tr><td align="center">星期四</td><td align="center">Java学习</td></tr><tr><td align="center">星期五</td><td align="center">Java学习</td></tr><tr><td align="center">星期六</td><td align="center">期末复习</td></tr><tr><td align="center">星期天</td><td align="center">Java学习&#x2F;期末复习</td></tr></tbody></table><h3 id="本周学习内容及收获"><a href="#本周学习内容及收获" class="headerlink" title="本周学习内容及收获"></a>本周学习内容及收获</h3><h5 id="完成状态："><a href="#完成状态：" class="headerlink" title="完成状态："></a>完成状态：</h5><p>已完成本周任务</p><h5 id="学习内容"><a href="#学习内容" class="headerlink" title="学习内容"></a>学习内容</h5><ol><li>完成高数极限的的笔记</li><li>完成python类、方法、封装、继承的学习</li><li>学习Java适配器设计模式、jdk8以后接口中新增的方法</li><li>学习Java的内部类</li><li>刷洛谷题</li><li>拼图小游戏游戏界面的完成</li></ol><h5 id="学习收获"><a href="#学习收获" class="headerlink" title="学习收获"></a>学习收获</h5><ol><li>python在多继承的时候碰到属性或方法名一致的情况时优先继承括号左边的</li><li>Java虚拟机会自动给匿名内部类加载字节码文件</li><li>不是所有方法都能像String Builder中的append方法一样链式调用</li></ol><h3 id="下周学习大纲"><a href="#下周学习大纲" class="headerlink" title="下周学习大纲"></a>下周学习大纲</h3><ol><li><strong>Java复习</strong>：复习前面所学过的知识</li><li><strong>期末考试复习</strong>：复习高数&#x2F;线性代数&#x2F;数字电路&#x2F;英语</li></ol>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h3 id=&quot;本周学习大纲&quot;&gt;&lt;a href=&quot;#本周学习大纲&quot; class=&quot;headerlink&quot; title=&quot;本周学习大纲&quot;&gt;&lt;/a&gt;本周学习大纲&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;期末复习&lt;/strong&gt;： 复习高数&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;pyt</summary>
       
     
     

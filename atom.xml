@@ -6,7 +6,7 @@
   <link href="https://mysophia.github.io/atom.xml" rel="self"/>
   
   <link href="https://mysophia.github.io/"/>
-  <updated>2024-06-16T11:14:24.734Z</updated>
+  <updated>2024-07-28T11:08:38.562Z</updated>
   <id>https://mysophia.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2024-7-22-2024-7-28周报</title>
+    <link href="https://mysophia.github.io/2024/07/28/2024-7-22-2024-7-28%E5%91%A8%E6%8A%A5/"/>
+    <id>https://mysophia.github.io/2024/07/28/2024-7-22-2024-7-28%E5%91%A8%E6%8A%A5/</id>
+    <published>2024-07-28T10:58:29.000Z</published>
+    <updated>2024-07-28T11:08:38.562Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="本周学习大纲"><a href="#本周学习大纲" class="headerlink" title="本周学习大纲"></a>本周学习大纲</h3><ol><li><strong>Java复习</strong>：复习集合，IO流</li><li><strong>codeforces练习</strong>：在codeforces平台上进行刷题练习</li><li><strong>数据库学习</strong>：了解数据的概念，下载MySQL</li></ol><h3 id="本周学习日历"><a href="#本周学习日历" class="headerlink" title="本周学习日历"></a>本周学习日历</h3><table><thead><tr><th align="center">日历</th><th align="center">学习日历</th></tr></thead><tbody><tr><td align="center">星期一</td><td align="center">Java复习</td></tr><tr><td align="center">星期二</td><td align="center">codeforces练习</td></tr><tr><td align="center">星期三</td><td align="center">Java复习</td></tr><tr><td align="center">星期四</td><td align="center">Java复习</td></tr><tr><td align="center">星期五</td><td align="center">codeforces练习</td></tr><tr><td align="center">星期六</td><td align="center">数据库学习</td></tr><tr><td align="center">星期天</td><td align="center">codeforces练习</td></tr></tbody></table><h3 id="本周学习内容及收获"><a href="#本周学习内容及收获" class="headerlink" title="本周学习内容及收获"></a>本周学习内容及收获</h3><h5 id="完成状态"><a href="#完成状态" class="headerlink" title="完成状态"></a>完成状态</h5><p>已完成本周任务</p><h5 id="学习内容"><a href="#学习内容" class="headerlink" title="学习内容"></a>学习内容</h5><ol><li>在codeforces上进行刷题练习</li><li>复习Java的集合、IO流</li><li>下载并安装了数据库，但在进行电脑连接的时候出现了不知名bug，后发现是MySQL的文件夹位置发生改变，已删除重下…</li></ol><h3 id="下周学习大纲"><a href="#下周学习大纲" class="headerlink" title="下周学习大纲"></a>下周学习大纲</h3><ol><li><strong>机器学习</strong>：学习回归类模型</li><li><strong>codeforces练习</strong>：在codeforces平台上进行刷题练习</li><li><strong>数据库学习</strong>：了解数据的概念，下载MySQL</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;本周学习大纲&quot;&gt;&lt;a href=&quot;#本周学习大纲&quot; class=&quot;headerlink&quot; title=&quot;本周学习大纲&quot;&gt;&lt;/a&gt;本周学习大纲&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Java复习&lt;/strong&gt;：复习集合，IO流&lt;/li&gt;
+&lt;li&gt;&lt;stron</summary>
+      
+    
+    
+    
+    
+    <category term="星辰大海组学习周报" scheme="https://mysophia.github.io/tags/%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%E7%BB%84%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5/"/>
+    
+  </entry>
   
   <entry>
     <title>2024-6-10-2024-6-16周报</title>
@@ -469,29 +493,6 @@
     
     
     <category term="星辰大海组学习周报" scheme="https://mysophia.github.io/tags/%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%E7%BB%84%E5%AD%A6%E4%B9%A0%E5%91%A8%E6%8A%A5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>StringTable</title>
-    <link href="https://mysophia.github.io/2024/01/28/StringTable/"/>
-    <id>https://mysophia.github.io/2024/01/28/StringTable/</id>
-    <published>2024-01-28T13:03:07.000Z</published>
-    <updated>2024-01-28T15:52:44.421Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="作用"><a href="#作用" class="headerlink" title="作用"></a>作用</h3><p>串池，也就是StringTable，记录在串池里面的字符串可以复用，不用在堆里面重新开辟空间，极大减少了内存的占用并提高性能</p><h3 id="记录方式"><a href="#记录方式" class="headerlink" title="记录方式"></a>记录方式</h3><h4 id="直接赋值"><a href="#直接赋值" class="headerlink" title="直接赋值"></a>直接赋值</h4><p>当我们使用<code>String 变量名 = 内容</code>方式创建一个新的字符串时，JVM会先用equals方法判断串池中是否存在同样的值，如果存在则返回引用，如果不存在则先在串池中记录再返回引用。此时变量名记录的是地址值，但String类中重写了toString方法，所以在打印变量名时，能直接获得记录的内容</p><h4 id="new关键字"><a href="#new关键字" class="headerlink" title="new关键字"></a>new关键字</h4><p>当使用<code>String 变量名 = new String(内容)</code>方法创建一个字符串时，JVM会先判断串池中是否存在该值，如果不存在就先在串池中记录，在到堆中开辟一个新的空间记录这个值；如果存在，则直接去堆中开辟空间记录。但无论串池中是否存在，JVM返回的都是堆中的地址值</p><h3 id="验证"><a href="#验证" class="headerlink" title="验证"></a>验证</h3><p>当我们使用直接赋值的方式创建一个字符串时，该字符串会记录在串池中，当再次用同样的方式创建一个同样内容的字符串时，会直接复用串池中的内容。可以使用<code>==</code>比较来验证  </p><p><strong>tips：</strong> 当比较基本数据类型时，<code>==</code>比较的是真实记录的值，当比较的是引用数据类型时，<code>==</code>比较的就是堆里面所记录的地址值<br>所以我们可以用<code>==</code>来比较他们的地址值是否一致，如果结果返回true，则代表地址值一致，也就是没有重新创建对象而是复用了串池中记录的数据</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">String</span> <span class="variable">a</span> <span class="operator">=</span> <span class="string">&quot;abc&quot;</span>;</span><br><span class="line"><span class="type">String</span> <span class="variable">b</span> <span class="operator">=</span> <span class="string">&quot;abc&quot;</span>;</span><br><span class="line">sout(a==b); <span class="comment">//true</span></span><br></pre></td></tr></table></figure>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h3 id=&quot;作用&quot;&gt;&lt;a href=&quot;#作用&quot; class=&quot;headerlink&quot; title=&quot;作用&quot;&gt;&lt;/a&gt;作用&lt;/h3&gt;&lt;p&gt;串池，也就是StringTable，记录在串池里面的字符串可以复用，不用在堆里面重新开辟空间，极大减少了内存的占用并提高性能&lt;/p&gt;
-&lt;h3</summary>
-      
-    
-    
-    
-    
-    <category term="学习笔记" scheme="https://mysophia.github.io/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
